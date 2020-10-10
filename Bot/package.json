@@ -1,0 +1,32 @@
+{
+  "name": "james",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "flammableassassin",
+  "license": "ISC",
+  "dependencies": {
+    "bad-words": "^3.0.3",
+    "cheweybot-api": "^1.0.4",
+    "dblapi.js": "^2.3.0",
+    "discord-bot-analytics": "^1.0.9",
+    "eris": "^0.13.2",
+    "express": "^4.16.4",
+    "google-it": "^1.2.1",
+    "google-profanity-words": "^1.0.0",
+    "h2m": "^0.7.0",
+    "jimp": "^0.14.0",
+    "mongodb": "^3.3.4",
+    "node-fetch": "^2.6.0",
+    "noswearing": "^1.2.0",
+    "urban": "^0.3.2",
+    "youtube-info": "^1.3.2"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}

@@ -1,0 +1,4 @@
+ErrorDocument 400 http://jamesbot.ga
+ErrorDocument 401 http://jamesbot.ga
+ErrorDocument 403 http://jamesbot.ga
+ErrorDocument 404 http://jamesbot.ga
